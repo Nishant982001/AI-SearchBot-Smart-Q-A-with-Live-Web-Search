@@ -16,7 +16,7 @@ wiki=WikipediaQueryRun(api_wrapper=wiki_wrapper, name="wiki")
 
 search = DuckDuckGoSearchRun(name="search")
 
-st.title("Langchain - chat with search")
+st.title("AI-SearchBot-Smart-Q-A-with-Live-Web-Search")
 
 ## Sidebar for settings
 st.sidebar.title("Settings")
