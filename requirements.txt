@@ -1,6 +1,5 @@
 langchain
 python-dotenv #will help to import .env
-ipykernel
 langchain-community
 pypdf
 beautifulsoup4
